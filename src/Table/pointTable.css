@@ -1,0 +1,42 @@
+table {
+    border-collapse: collapse;
+    font-weight: bold;
+}
+
+
+/* .close-btn {
+    position: absolute;
+    right: 50px;
+    top: 20px;
+    width: 30px;
+    height: 30px;
+    background: red;
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 50%;
+} */
+
+
+
+
+/* td img {
+    height: 40px;
+    width: 60px;
+    border-radius: 25%;
+    border: 2px solid #e6e7e8;
+} */
+
+tr:nth-child(odd) {
+
+    background-color: white;
+}
+
+tr:nth-child(even) {
+
+    background-color: rgb(180, 165, 165);
+}
+
+

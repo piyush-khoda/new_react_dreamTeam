@@ -1,0 +1,48 @@
+.liveMatchBody
+{
+    height: 200px;
+    background-color: rgb(243, 243, 108);
+    padding-top: 20px;
+}
+.live_score_body
+{
+    height: 200px;
+    background-color: rgb(243, 243, 108);
+    padding-top: 25px;
+}
+.Live_container
+{
+    width: 200px;
+    height: 150px;
+    background-color:blue;
+    margin-left: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+    display: inline-block;
+    
+}
+.blocks
+{
+    margin-top: -20px;
+
+}
+.more_matches
+{
+    margin-right: 30px;
+    text-align: right;
+    margin-top: -60px;
+}
+.score
+{
+    font-family:  Verdana, sans-serif;
+    color: rgb(209, 245, 6);
+}
+.match 
+{
+    color: white;
+}
+.result
+{
+    color: rgb(182, 168, 168);
+}
