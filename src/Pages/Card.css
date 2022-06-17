@@ -1,27 +1,25 @@
 .container
   {
-    /* display: inline-block;
-    
-    width: 10%;
-    height: 15%;
+    display: inline-block;
+    width: 30%;
+    height: 25%;
     border: 5px;
     border-color: red;
     background-color: rgb(225, 247, 247);
     box-sizing: border-box;
     box-shadow: 15px;
-    margin-left: 20%;
+    margin-left: 15%;
     border-radius: 25px;
-    margin-top: 25px;
-    align-items: center; */
+    margin-top: 5%;
+    align-items: center;
     
-    width: 100px;
-    height: 150px;
+    
   }
   .card
   {
       text-align: center ;
   }
-  .img
+  #img
   {
       margin-top: 10px;
       height: 50px;
@@ -34,5 +32,6 @@
     border-radius: 20px;
     margin-bottom: 5px;
     color: white;
+    margin-left: 40%;
 
   }
